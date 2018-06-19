@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\bakalski\\Desktop\\Irdroid Alarm Bug\\AlarmBug\\app\\build\\intermediates\\res\\merged\\debug\\anim_blink_anim.xml.flat",
+        "source": "C:\\Users\\bakalski\\Desktop\\Irdroid Alarm Bug\\AlarmBug\\app\\src\\main\\res\\anim\\blink_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\bakalski\\Desktop\\Irdroid Alarm Bug\\AlarmBug\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bakalski\\Desktop\\Irdroid Alarm Bug\\AlarmBug\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bakalski\\Desktop\\Irdroid Alarm Bug\\AlarmBug\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\bakalski\\Desktop\\Irdroid Alarm Bug\\AlarmBug\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\bakalski\\Desktop\\Irdroid Alarm Bug\\AlarmBug\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\bakalski\\Desktop\\Irdroid Alarm Bug\\AlarmBug\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bakalski\\Desktop\\Irdroid Alarm Bug\\AlarmBug\\app\\build\\intermediates\\res\\merged\\debug\\menu_mainactivity.xml.flat",
+        "source": "C:\\Users\\bakalski\\Desktop\\Irdroid Alarm Bug\\AlarmBug\\app\\src\\main\\res\\menu\\mainactivity.xml"
+    }
+]

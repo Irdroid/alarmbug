@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\bakalski\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="false"
+        min-sdk-version="1"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="C:\Users\bakalski\Desktop\Irdroid Alarm Bug\AlarmBug\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bakalski\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="false"
+        min-sdk-version="1"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="C:\Users\bakalski\Desktop\Irdroid Alarm Bug\AlarmBug\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+
+</items>
