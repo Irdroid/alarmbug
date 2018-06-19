@@ -34,7 +34,7 @@ The Irdroid Alarm System App for Android is installed in the user’s smartphone
 
 Infrared AlarmBug module kit can be purchased from https://irdroid.eu/product/irdroid-alarm-system/
 
-## Module Technical
+## Module Technical []
 
 Operation principle -> https://irdroid.eu/turn-old-phone-security-alarm-system-android/
 
