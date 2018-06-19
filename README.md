@@ -36,7 +36,7 @@ Infrared AlarmBug module kit can be purchased from https://irdroid.eu/product/ir
 
 ## Irdroid AlarmBug @ Google Play
 
-* https://play.google.com/store/apps/details?id=com.irdroid.alarmbug
+* https://play.google.com/store/apps/details?id=com.irdroid.alarmbug (Official App)
 
 ## Contribution:
 
