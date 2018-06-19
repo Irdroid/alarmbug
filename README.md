@@ -4,7 +4,7 @@ Turn  your old Android Smartphone into a home security alarm system via the Irdr
 
 # Video
 
-[![Watch the video](https://irdroid.github.io/alarmbug/alarm.png)](https://www.youtube.com/watch?v=5QSB4ok5luY)
+[![Watch the video](https://raw.githubusercontent.com/Irdroid/alarmbug/master/Alarm.png)](https://www.youtube.com/watch?v=5QSB4ok5luY)
 
 ## How it works
  
